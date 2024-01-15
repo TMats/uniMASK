@@ -1,9 +1,5 @@
 #!/bin/zsh
 source ~/.zshrc
-# install D4RLp
-# cd ~/workspace/benchmarks/d4rl && pip install -e .
-# install simxarm
-# cd ~/workspace/benchmarks/simxarm && pip install -e .
 # install unimask
 cd ~/workspace && pip install -e .  
 # error catching
